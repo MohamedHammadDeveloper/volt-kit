@@ -1,0 +1,11 @@
+{
+  "name": "volt-kit",
+  "displayName": "Volt Kit",
+  "version": "0.1.0",
+  "description": "A working method for Claude Code: vault-driven notes, spec-driven planning, graph-assisted code search, and an orchestrator that briefs and monitors agents.",
+  "author": { "name": "MohamedHammadDeveloper", "url": "https://github.com/MohamedHammadDeveloper" },
+  "homepage": "https://github.com/MohamedHammadDeveloper/volt-kit",
+  "repository": "https://github.com/MohamedHammadDeveloper/volt-kit",
+  "license": "MIT",
+  "keywords": ["orchestrator", "spec-driven", "vault", "agents", "workflow", "graphify", "spec-kit"]
+}

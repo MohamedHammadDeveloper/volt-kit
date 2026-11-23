@@ -1,0 +1,12 @@
+{
+  "name": "volt-kit",
+  "description": "Volt Kit: vault + spec + orchestrated-agents working method",
+  "owner": { "name": "MohamedHammadDeveloper" },
+  "plugins": [
+    {
+      "name": "volt-kit",
+      "source": "./",
+      "description": "Vault-driven, spec-driven, graph-assisted, orchestrated-agents workflow (talk only to the orchestrator) for any project"
+    }
+  ]
+}
